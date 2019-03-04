@@ -1,6 +1,6 @@
 {
   "name": "@rglas/tiny",
-  "version": "0.0.2"
+  "version": "0.0.2",
   "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "rglas/tiny",
